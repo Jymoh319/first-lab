@@ -1,0 +1,3 @@
+name:james karanja
+software developer
+lab:getting used to github
